@@ -1,1 +1,1 @@
-asd
+Django Test Project
